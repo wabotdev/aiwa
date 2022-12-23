@@ -1,0 +1,16 @@
+{
+  "name": "mainprogram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openwa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mit",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.1.0",
+    "web.js": "^1.0.1",
+    "whatsapp": "^1.0.0"
+  }
+}
